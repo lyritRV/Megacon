@@ -100,7 +100,7 @@ $(document).ready(function(){
  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
 <body>
-  <h1>Nieuw onderdeel toevoegen</h1><br><br>
+  <h1>Nieuw Test onderdeel toevoegen</h1><br><br>
 	    <form method=post action=TestServlet name=div0>
 	    <table>
 	    <tr><td>Project:</td><td><input name=projectNaam type=text readonly maxlength=30 size=30 value='Tata S-BOCH OXYii' style="background-color:Lavender; color:black;"></td></tr>
