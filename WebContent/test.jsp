@@ -1,4 +1,3 @@
-
 <%@page import="java.util.Calendar"%>
 <%@page import="java.text.SimpleDateFormat"%>
 <%@page import="megacon.util.LyritSettings"%>
