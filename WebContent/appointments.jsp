@@ -1,0 +1,2 @@
+[{"id":"id1","description":"First appointment","subject":"hallo","start":"2018-11-23T09:00:00","end":"2018-11-23T16:00:00"},
+{"id":"id2","description":"Second appointment","subject":"Test","start":"2018-11-24T09:00:00","end":"2018-11-24T16:00:00"}]
